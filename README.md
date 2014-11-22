@@ -1,4 +1,4 @@
 LearnItGirl
 ===========
 
-Files associated with mentorship
+Files associated with mentorship program
